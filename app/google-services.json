@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "776220330214",
+    "firebase_url": "https://mastereksamen.firebaseio.com",
+    "project_id": "mastereksamen",
+    "storage_bucket": "mastereksamen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776220330214:android:b32b8c49b91d0883",
+        "android_client_info": {
+          "package_name": "no.stunor.mastereksamen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776220330214-k22l5nd6pvqqtnnnprub9c61jc9uitsv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "no.stunor.mastereksamen",
+            "certificate_hash": "91334cbf3de550eb2b1c0a3b3b51bf8924e57076"
+          }
+        },
+        {
+          "client_id": "776220330214-qdk85ojpsdcri579nf1o6ptciqdr58ti.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "776220330214-qdk85ojpsdcri579nf1o6ptciqdr58ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKZZwF8eHJq0BCN5KFwmI0KEvIDhK6QAE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776220330214-qdk85ojpsdcri579nf1o6ptciqdr58ti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
