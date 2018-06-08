@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mitt tog</string>
+    <string name="prompt_email">E-post</string>
+    <string name="prompt_password">Passord</string>
+    <string name="action_registrer">Registrer deg</string>
+    <string name="action_sign_in">Logg inn</string>
+    <string name="error_invalid_email">Ugyldig e-post</string>
+    <string name="error_invalid_password">Passordet er for kort</string>
+    <string name="error_incorrect_password">Ugyldig passord</string>
+    <string name="error_field_required">Påkrevd felt</string>
+    <string name="reset_password">Tilbakestill passord</string>
+    <string name="permission_rationale">Noen tilganger mangler</string>
+
+</resources>
